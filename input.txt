@@ -1,0 +1,4 @@
+
+    bitcoin
+	nostr
+	tor
