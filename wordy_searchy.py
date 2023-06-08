@@ -1,4 +1,6 @@
 """Created: 2023-06-08 by @VictorieeMan
+Repo URL: https://github.com/VictorieeMan/wordy_searchy_py
+
 This script can help you with solving word puzzles.
 Add a dictionary of words to the input.txt file, then run the script.
 

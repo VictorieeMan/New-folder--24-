@@ -8,3 +8,5 @@ Recommended usage:
 
 If manually adding words or getting words from another source, make sure that the words are in the following format:
 - one word per line
+
+https://github.com/VictorieeMan/wordy_searchy_py
